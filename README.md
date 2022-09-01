@@ -2,4 +2,4 @@
 
 Webprosjekt
 
-Karakter: Godskjent
+Karakter: Godkjent
